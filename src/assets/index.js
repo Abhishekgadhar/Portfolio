@@ -25,12 +25,14 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import Expressjs from "./tech/Expressjs.png";
+import Harish from "./Harish.jpg";
 
 import meta from "./company/Air.png";
 import model from "./company/3dmodel.png";
 import shopify from "./company/Disease.png";
 import starbucks from "./company/bookicon.png";
 import tesla from "./company/App.png";
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -41,6 +43,7 @@ export {
   backend,
   creator,
   mobile,
+  Harish,
   web,
   github,
   menu,
